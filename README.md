@@ -114,7 +114,7 @@ The following scenarios are covered using Laravel Feature Tests:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/Sakibansari12/url-shortener.git>
 cd url-shortener
 
 composer install
