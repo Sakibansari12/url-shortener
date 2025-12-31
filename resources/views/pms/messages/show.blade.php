@@ -1,0 +1,1 @@
+<h1>{{ $threads['Message'] ?? '' }}</h1>
